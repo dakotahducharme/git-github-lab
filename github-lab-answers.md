@@ -3,7 +3,13 @@
 // 3. git commit -m "message"
 
 
-// 1. git init
+// 1. fetch
+// 2. reset
+// 3. reset
+// 4. it separates options from params
+
+
+// 1. git branch <branch>
 // 2. git checkout
 // 3. you may want to use a branch other than master in case you make a mistake and don't want to have to reset or you don't want to permanently change a file.
 
