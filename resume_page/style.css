@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+  font-family: "Raleway", serif;
+  text-transform: uppercase;
+}
+
+h3 {
+  font-family: "Raleway";
+  color: #707070;
+}
+
+a {
+  text-decoration: none;
+  color: #eac6c6;
+}
+
+li {
+  display: inline;
+  padding: 20px;
+}
+
+body {
+  margin: 10px;
+}
